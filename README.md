@@ -1,6 +1,6 @@
 # Trackify - Your Personal Trainer 💪📱
 
-Trackify is a modern and responsive landing page for a fitness app.  
+A modern and responsive landing page for a fitness app.  
 It presents the core features of the application, showcases workout plans, community, and pricing options, and includes smooth navigation with a sticky navbar.  
 
 ## Features ✨
@@ -68,10 +68,10 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/maciej-galuszka/trackify-landing-page.git
 2. Navigate to the project directory::
    ```bash
-   cd task-tracker
+   cd trackify-landing-page
 3. Open index.html in your browser.
 
 No build tools or dependencies required – it’s 100% client-side!
